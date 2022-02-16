@@ -1,0 +1,23 @@
+.header{
+    height: 200px;
+    background: teal;
+}
+.section{
+    height: 150px;
+    background: burlywood;
+}
+.footer{
+    background: purple;
+    color: white;
+    height: 100vh;
+}
+.footer .content{
+    display: flex;
+    justify-content: space-around;
+}
+.content .rights{
+    width: 50%;
+}
+.content .icons{
+    width: 50%;
+}
